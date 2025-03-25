@@ -1,0 +1,127 @@
+h2{
+    text-align: center;
+}
+.bordes{
+    border: 5px, solid, blue;
+    border-radius:5px ;
+    width: 60px;
+    height: 60px;
+    margin: 0 auto;
+}
+.box_Shadow{
+    background-color: aqua;
+    width: 60px;
+    height: 60px;
+    margin: 0 auto;
+   box-shadow: 10px  10px 8px #000;
+}
+.caja1{
+    background-color: #0000ff;
+    width: 60px;
+    height: 60px;
+    margin: 0 auto;
+    margin-bottom: 10px;
+
+
+}
+.caja2{
+    background-color: #292974;
+    width: 60px;
+    height: 60px;
+    margin: 0 auto;
+    margin-bottom: 10px;
+
+}
+.caja3{
+    background-color: #c8ff00;
+    width: 60px;
+    height: 60px;
+    margin: 0 auto;
+    
+}
+.Colores_HSL{
+    background-color: hsl(120, 40%, 3%);
+    width: 60px;
+    height: 60px;
+    margin: 0 auto;
+}
+.Colores_RGB{
+    background-color: rgb(0, 0, 255);
+    width: 60px;
+    height: 60px;
+    margin: 0 auto;
+    margin-bottom: 10px ;
+}
+.Colores_RGBA{
+    background-color: rgba(0, 0, 255, 0.5);
+    width: 60px;
+    height: 60px;
+    margin: 0 auto;
+
+}
+.Fondo_Background{
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+    background-position:center ;
+}
+.IMG{
+    width: 100px;
+    margin: 0 auto;
+    background-position:center ;
+}
+.background_atachment{
+    background-image: url(img/jh.jpg);
+    width: 600px;
+    margin: 600px;
+    margin: 0 auto;
+    background-attachment: fixed;
+}
+.gradiante{
+    width: 60px;
+    height: 60px;
+    margin: 0 auto;
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+
+}
+
+
+.background_atachmentt{
+    background-image: url(img/jh.jpg);
+    width: 600px;
+    height: 500px;
+    margin: 0 auto;
+    background-attachment: fixed;
+    background-size: cover;
+}.
+
+
+/* h1{
+    color: blueviolet;
+}
+
+
+div{
+    border:1px dotted black ;
+    border-left: 1px solid greenyellow ;
+    border-style: dotted ;
+    background-color: aqua;
+    border-radius: 20px;
+    border-top-style: dotted;
+
+
+}
+
+button{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    border-radius:  100%; 
+
+}
+body{
+    background: linear-gradient(red,blue,purple);
+}
+div{
+    ba
+} */
